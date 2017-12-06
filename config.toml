@@ -1,0 +1,9 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Oliver Lehner"
+theme = "bslol"
+
+
+[taxonomies]
+	category = "categories"
+	tag = "tags"

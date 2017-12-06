@@ -1,0 +1,15 @@
+{{ define "hero" }}
+
+	<!-- Featured Content -->
+	<div class="container">
+	    <div class="jumbotron jumbotron-fluid bg-apricot">
+	        <div class="container">
+	            <h1 class="display-3 text-ocean">{{.Title}}</h1>
+	            {{ with .Params.subtitle }}        
+	            	<p class="lead text-yellow">{{.}}</p>
+	            {{ end }}
+	        </div>
+	    </div>
+	</div>
+
+{{ end }}

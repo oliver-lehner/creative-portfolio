@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+    <head>
+    	<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href='{{ "css/font-awesome.min.css" | absURL }}'>
+		<link rel="stylesheet" href='{{ "css/bootstrap.css" | absURL }}'>
+		<link rel="stylesheet" href='{{ "css/style.css" | absURL }}'>
+		<title> {{ .Title }}</title>
+		 {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+		 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+		 {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
+    </head>
+	<body class="bg-light bg-img">
+		<div class="container">
+            <nav class="navbar navbar-expand-sm bg-light navbar-light">
+                <div class="container">
+                    <a href='{{ $.Site.BaseURL }}' class="navbar-brand">
+                    <img src='{{ "../img/hand.png" | absURL }}' alt="Brand icon" class="brand-icon">
+                    {{$.Site.Title}}
+                </a>
+                    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbar-collapse">
+                        <ul class="navbar-nav ml-auto">
+                            {{ range .Site.Sections }}
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{.URL}}">
+                                    {{ .Title }}
+                                </a>
+                            </li>
+                            {{end}}
+                            <!-- Modal in HUGO ??? -->
+                            <li class="nav-item">
+                                <button class="btn btn-outline-dark rounded-0" data-toggle="modal" data-target="#contactModal">
+                                    Contact me
+                                </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+	    {{ block "main" . }}
+		{{ end }}
+
+	    <div class="container">
+	        <footer class="bg-light">
+	            <div class="container">
+	                <div class="row">
+	                    <div class="col text-center">
+	                        <div class="py-4">
+	                            <h6>&copy; Oliver Lehner 2017</h6>
+	                        </div>
+	                        
+	                    </div>
+	                </div>
+	            </div>
+	        </footer>
+	    </div>
+	    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog">
+	        <div class="modal-dialog" role="document">
+	            <div class="modal-content bg-light rounded-0">
+	                <div class="modal-header">
+	                    <i class="fa fa-envelope-o fa-2x text-ocean"></i>
+	                    <button class="close" type="button" data-dismiss="modal">
+	                        <span class="text-bordeaux fa-2x">&times;</span>
+	                    </button>                        
+	                </div>
+	                <form id="contactForm" action="https://formspree.io/rndmfktr@gmail.com" method="POST">
+	                    <div class="modal-body text-dark">
+	                        <div class="form-group">
+	                            <input type="text" class="form-control" placeholder="Name">
+	                        </div>
+	                        <div class="form-group">
+	                            <input type="email" name="_replyto" class="form-control" placeholder="Email Adress">
+	                        </div>
+	                        <div class="form-group">
+	                            <label for="message">Message</label>
+	                            <textarea class="form-control"></textarea>
+	                        </div>
+	                    </div>
+	                    <div class="modal-footer">
+	                        <button type="submit" class="btn btn-outline-dark rounded-0 btn-block">
+	                            Submit
+	                        </button>
+	                    </div>
+	                </form>    
+	            </div>
+	        </div>
+	    </div>
+		<script src='{{ "js/jquery.min.js" | absURL }}'></script>
+		<script src='{{ "js/popper.min.js"| absURL }}'></script>
+		<script src='{{ "js/bootstrap.min.js"| absURL }}'></script>
+	</body>
+</html>

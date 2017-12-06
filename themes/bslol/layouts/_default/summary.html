@@ -1,0 +1,13 @@
+<div class="card col-lg p-3 mt-1 mx-1 rounded-0">
+    <div class="textimage">
+        {{ with .Params.Image }}<img src="{{ . | urlize }}" alt="articleimg" }} class="card-img-top">{{ end }}
+        <h4 class="card-title title-over-image">{{ .Title }}</h4>
+    </div>
+    
+    <div class="card-body">                           
+        <p class="card-text">
+            {{ .Summary }}
+        </p>
+        <a href="{{.Permalink}}" class="card-link">See more</a>
+    </div>
+</div>

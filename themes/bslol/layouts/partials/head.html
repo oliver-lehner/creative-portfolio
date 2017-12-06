@@ -1,0 +1,9 @@
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/style.css">
+<title> {{ .Title }}</title>
+ {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+ {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+ {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}

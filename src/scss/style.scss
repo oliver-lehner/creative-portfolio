@@ -1,0 +1,101 @@
+$dark-overlay:rgba(0,0,0,0.7);
+$sunyellow:#f4e784;
+$apricot:#e4a788;
+$mutebordeaux:#b26d70;
+$skyblue:#90b8c4;
+$oceanblue:#667899;
+
+$navheight:80px;
+
+.navbar{
+	min-height:$navheight;
+}
+
+.folio-bg{
+	background-color:$dark-overlay;
+}
+
+.bg-img{
+	background:url('../img/bg.png');
+	background-attachment: fixed;
+}
+
+.bg-yellow{
+	background-color:$sunyellow;
+}
+
+.bg-apricot{
+	background-color:$apricot;
+}
+
+.bg-bordeaux{
+	background-color:$mutebordeaux;
+}
+
+.bg-sky{
+	background-color:$skyblue;
+}
+
+.bg-ocean{
+	background-color:$oceanblue;
+}
+
+.text-yellow{
+	color:$sunyellow;
+}
+
+.text-apricot{
+	 color:$apricot;
+}
+
+.text-bordeaux{
+	 color:$mutebordeaux;
+}
+
+.text-sky{
+	color:$skyblue;
+}
+
+.text-ocean{
+	color:$oceanblue;
+}
+
+.card{
+	background-color:white;
+	border: 2px solid $mutebordeaux;
+}
+
+.textimage{
+	position:relative;
+}
+
+.card-title{
+	color: $oceanblue;
+	text-shadow: 1px 1px 1px white;
+	background-color:$sunyellow;
+	opacity: 0.9;
+}
+
+.title-over-image{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.card-link{
+	text-align:end;
+}
+
+.brand-icon{
+	height: $navheight*0.6;
+}
+
+.carousel-inner{
+	height:400px;
+}
+
+.article-body{
+	background-color:white;
+	border: 2px solid $mutebordeaux;
+}

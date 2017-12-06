@@ -1,0 +1,33 @@
+{{ define "contactModal" }}
+    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content bg-light rounded-0">
+                <div class="modal-header">
+                    <i class="fa fa-envelope-o fa-2x text-ocean"></i>
+                    <button class="close" type="button" data-dismiss="modal">
+                        <span class="text-bordeaux fa-2x">&times;</span>
+                    </button>                        
+                </div>
+                <form id="contactForm" action="https://formspree.io/rndmfktr@gmail.com" method="POST">
+                    <div class="modal-body text-dark">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Name">
+                        </div>
+                        <div class="form-group">
+                            <input type="email" name="_replyto" class="form-control" placeholder="Email Adress">
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message</label>
+                            <textarea class="form-control"></textarea>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-outline-dark rounded-0 btn-block">
+                            Submit
+                        </button>
+                    </div>
+                </form>    
+            </div>
+        </div>
+    </div>
+{{ end }}

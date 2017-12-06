@@ -1,0 +1,33 @@
+ {{ define "main" }}
+ <div class="container">
+        <div class="container my-3 article-body">
+            <div class="row p-3">
+            <div class="col-8-lg articleTitle">
+                <h1 class="display-1">{{.Title}}</h1>
+            </div>
+
+            <div class="col-3-lg">
+                {{ with .Params.subtitle }}        
+                    <p class="text-yellow">{{.}}</p>
+                {{ end }}
+            </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-2"></div>
+                <div class="col-lg-6" id="articleMedia">
+                    <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src="https://player.vimeo.com/video/139796964" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                </div>
+                </div>
+                
+            </div>
+            <div class="row">
+                <div class="col-lg-2"></div>
+                <div class="col-lg-6 articleText">
+               {{.Content}}
+                </div>
+                <!-- TODO: add Metadata see https://gohugo.io/templates/single-page-templates/ -->
+            </div>
+        </div>
+        </div>
+{{ end }}
