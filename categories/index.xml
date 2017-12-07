@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Oliver Lehner</title>
-    <link>/categories/</link>
+    <link>https://oliver-lehner.github.io/creative-portfolio/categories/</link>
     <description>Recent content in Categories on Oliver Lehner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Graphic Design</title>
-      <link>/categories/graphic-design/</link>
+      <link>https://oliver-lehner.github.io/creative-portfolio/categories/graphic-design/</link>
       <pubDate>Wed, 06 Dec 2017 15:44:59 +0100</pubDate>
       
-      <guid>/categories/graphic-design/</guid>
+      <guid>https://oliver-lehner.github.io/creative-portfolio/categories/graphic-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Installation</title>
-      <link>/categories/installation/</link>
+      <link>https://oliver-lehner.github.io/creative-portfolio/categories/installation/</link>
       <pubDate>Tue, 05 Dec 2017 09:57:33 +0100</pubDate>
       
-      <guid>/categories/installation/</guid>
+      <guid>https://oliver-lehner.github.io/creative-portfolio/categories/installation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interaction Design</title>
-      <link>/categories/interaction-design/</link>
+      <link>https://oliver-lehner.github.io/creative-portfolio/categories/interaction-design/</link>
       <pubDate>Tue, 05 Dec 2017 09:57:33 +0100</pubDate>
       
-      <guid>/categories/interaction-design/</guid>
+      <guid>https://oliver-lehner.github.io/creative-portfolio/categories/interaction-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sound Design</title>
-      <link>/categories/sound-design/</link>
+      <link>https://oliver-lehner.github.io/creative-portfolio/categories/sound-design/</link>
       <pubDate>Tue, 05 Dec 2017 09:57:33 +0100</pubDate>
       
-      <guid>/categories/sound-design/</guid>
+      <guid>https://oliver-lehner.github.io/creative-portfolio/categories/sound-design/</guid>
       <description></description>
     </item>
     
