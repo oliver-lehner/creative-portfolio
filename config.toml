@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://oliver-lehner.github.io/creative-portfolio/"
 languageCode = "en-us"
 title = "Oliver Lehner"
 theme = "bslol"
