@@ -2,7 +2,7 @@
 title: "Shopping Mill"
 date: 2017-12-05T09:57:33+01:00
 draft: true
-image: “../img/ball.jpg”
+image: “./img/ball.jpg”
 description: "Interactive Installation"
 categories: ["Interaction Design", "Sound Design", "Installation"]
 tags: ["Sonic Warfare", "Muzak", "Interactive Art", "Late Capitalism", "Ars Electronica"]
