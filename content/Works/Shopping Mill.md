@@ -2,10 +2,20 @@
 title: "Shopping Mill"
 date: 2017-12-05T09:57:33+01:00
 draft: true
-image: “./img/ball.jpg”
-description: "Interactive Installation"
+image: "./img/Mill_installation.jpg"
+description: "A Multisensory Interactive Installation"
+year: 2016
 categories: ["Interaction Design", "Sound Design", "Installation"]
-tags: ["Sonic Warfare", "Muzak", "Interactive Art", "Late Capitalism", "Ars Electronica"]
+tags: ["Art", "Sonic Warfare", "Muzak", "Interactive Art", "Late Capitalism", "Ars Electronica", "C++", "OpenFrameworks", "Raspberry Pi"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, voluptatem deserunt, veritatis, rem enim eius quo autem laudantium similique nesciunt minus corrupti recusandae numquam impedit possimus obcaecati ex iusto expedita eligendi illo aperiam temporibus omnis quia sint esse? Deleniti obcaecati amet dolore ullam facilis ab perferendis maxime deserunt, est cumque in voluptatum mollitia numquam, consequatur asperiores quos neque itaque. Tempora dolorem neque, atque obcaecati animi sit vitae dolores eius quae rem dignissimos ipsa unde cum odit ipsum eligendi, numquam quas earum nulla quibusdam illo voluptatem esse debitis reprehenderit! Suscipit aperiam quidem perferendis maiores dolores fugiat sapiente, eos accusamus nulla nemo.
+Shopping Mill is an interactive, multi-sensory installation: a treadmill augmented with display and 
+headphones. Walking on the mill simulates a shopping experience with Muzak playback and an 
+endlessly unfolding, 3D-generated shopping aisle. 
+Shopping Mill is a meditation on the relationship between de-realized labor and senseless consumption. 
+A trip into the military entertainment complex. Muzak – the company – was founded by a highly 
+decorated war veteran. Its product was not only developed to make people feel comfortable in 
+uncomfortable architectures but also to heighten attentiveness and productivity in the work place. 
+Is it the music that keeps you going or is it the other way around?
+
+{{< image src="./img/Mill_visitors.jpg" title="Participants of guided tour interacting with Shopping Mill at Ars Electronica Festival" >}}

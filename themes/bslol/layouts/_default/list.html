@@ -1,10 +1,29 @@
 {{ define "main" }}
 <div class="container">
+
     <div class="container">
         <div class="row px-1 pt-1">
-            {{ range first 3 .Data.Pages }}
-                {{ .Render "summary" }}
-            {{ end }}
+            <div class="col bg-light">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-3"></div>
+                        <div class="col-6">
+                            <p>{{ .Content }}</p>
+                        </div>
+                        </div>
+                    </div>  
+            </div>
+        </div>
+        {{ $cols := 3}}
+        {{ range $key, $value := .Data.Pages}}
+            {{ if modBool $key $cols}}
+                <div class="row px-1 pt-1">
+            {{end}}
+            {{.Render "summary"}}
+            {{ if modBool (add $key 1) $cols}}
+                </div>
+            {{end}}
+        {{end}}
         </div>
     </div>
 </div>

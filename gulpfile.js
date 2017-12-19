@@ -14,7 +14,7 @@ gulp.task("scss", function() {
 	.pipe(autoprefixer({
 		browsers : ["last 20 versions"]
 	}))
-	.pipe(gulp.dest("static/css"))
+	.pipe(gulp.dest("themes/bslol/static/css"))
 })
 
 //watch folder for changes
