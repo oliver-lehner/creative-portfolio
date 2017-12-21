@@ -14,6 +14,7 @@
 		 {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 		 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 		 {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
+		 {{ template "_internal/opengraph.html" . }}
     </head>
 	<body class="bg-light bg-img">
 		<div class="container">
@@ -29,16 +30,28 @@
                     <div class="collapse navbar-collapse" id="navbar-collapse">
                         <ul class="navbar-nav ml-auto">
                             {{ range .Site.Sections }}
-                            <li class="nav-item">
-                                <a class="nav-link" href="{{.URL}}">
-                                    {{ .Title }}
-                                </a>
-                            </li>
-                            {{end}}
+	                            {{ if eq .Title "Works" }}
+		                            <li class="nav-item dropdown"> 
+										<a href="{{.URL}}" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown">{{ .Title }}</a>
+										<div class="dropdown-menu">
+											{{ range $key, $value := .Site.Taxonomies.categories}}
+													<a href="{{ "/categories/" | relLangURL }}{{$key | urlize }}" class="dropdown-item"> {{ $key | humanize | title}} </a>
+											{{end}}
+										</div>
+									</li>
+								{{ else }}
+		                            <li class="nav-item">
+		                                <a class="nav-link" href="{{.URL}}">
+		                                    {{ .Title }}
+		                                </a>
+		                            </li>
+                            	{{end}}
+                            {{end}}						
+                            
                             <!-- Modal in HUGO ??? -->
                             <li class="nav-item">
                                 <button class="btn btn-outline-dark rounded-0" data-toggle="modal" data-target="#contactModal">
-                                    Contact me
+                                    Contact
                                 </button>
                             </li>
                         </ul>
