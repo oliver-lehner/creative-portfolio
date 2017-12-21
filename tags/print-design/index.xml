@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Print Design on Oliver Lehner</title>
+    <link>https://oliver-lehner.github.io/creative-portfolio/tags/print-design/</link>
+    <description>Recent content in Print Design on Oliver Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 15:44:59 +0100</lastBuildDate>
+    
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/tags/print-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post Post</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/post-post/</link>
+      <pubDate>Wed, 06 Dec 2017 15:44:59 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/post-post/</guid>
+      <description>Aw yiss, Neon Pantone Colors! I thought up a three-dimnensional post-post-horn and used its wireframe representation as an eye-catcher. We also recreated the graphic with neon-orange gaffa tape as a larger-than-life tape graffiti in the exhibtion space. I had fun designing this one and it shows!
+Folder Download</description>
+    </item>
+    
+    <item>
+      <title>Speculative Materialities</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/speculative-materialities/</link>
+      <pubDate>Wed, 06 Dec 2017 15:44:59 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/speculative-materialities/</guid>
+      <description>I designed marketing material for the Interface Culture student exhibition at Ars Electronica 2016. I tackled the challenge to present the manyfold student artworks in a homogenous manner by using elements of a negative space pentagram as an over-arching brand design.
+Brochure Download</description>
+    </item>
+    
+  </channel>
+</rss>

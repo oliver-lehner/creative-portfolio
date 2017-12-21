@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teensy on Oliver Lehner</title>
+    <link>https://oliver-lehner.github.io/creative-portfolio/tags/teensy/</link>
+    <description>Recent content in Teensy on Oliver Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 15:40:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/tags/teensy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hörstationen</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/hoerstationen/</link>
+      <pubDate>Wed, 06 Dec 2017 15:40:39 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/hoerstationen/</guid>
+      <description>The OK Center for Contemporary Art commissioned 5 Hörstationen (Listening Posts) for their 2015 Exhibtion Das Geheimnis der Vögel. The idea was to deliver facts about birds in a playful way to the 100.000 exhibtion visitors. Wooden Boxes, evoking a bird house theme were placed in the exhibition area. A woodpecker sound, played back by a speaker inside the box, would alert passer-bys about the possibility to interact and invite them to inspect the sound source.</description>
+    </item>
+    
+  </channel>
+</rss>

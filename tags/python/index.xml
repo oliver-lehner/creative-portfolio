@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Oliver Lehner</title>
+    <link>https://oliver-lehner.github.io/creative-portfolio/tags/python/</link>
+    <description>Recent content in Python on Oliver Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2017 09:57:33 +0100</lastBuildDate>
+    
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LARD</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/lard/</link>
+      <pubDate>Tue, 05 Dec 2017 09:57:33 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/lard/</guid>
+      <description>Military and police in numerous countries around the globe use Long Range Acoustic Devices (LRADs) as weapons against agitated crowds. LRADs emit a focused sound beam with an intensity that is high enough to permanently damage human hearing. Because it is not desirable for a governmental entity to use weapons, even the non-lethal type, against its own citizens, the manufacturer markets these sonic weapons as “hailing device,” a device that facilitates communication between the authorities and the mob.</description>
+    </item>
+    
+  </channel>
+</rss>

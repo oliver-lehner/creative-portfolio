@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2d Animation on Oliver Lehner</title>
+    <link>https://oliver-lehner.github.io/creative-portfolio/tags/2d-animation/</link>
+    <description>Recent content in 2d Animation on Oliver Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 15:40:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/tags/2d-animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skandal Normal Vermittlungsvideo</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/skandal-normal/</link>
+      <pubDate>Wed, 06 Dec 2017 15:40:39 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/skandal-normal/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
