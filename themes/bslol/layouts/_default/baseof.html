@@ -29,7 +29,7 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbar-collapse">
                         <ul class="navbar-nav ml-auto">
-                            {{ range .Site.Sections }}
+                            {{ range .Site.Sections.ByWeight }}
 	                            {{ if eq .Title "Works" }}
 		                            <li class="nav-item dropdown"> 
 										<a href="{{.URL}}" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown">{{ .Title }}</a>
@@ -47,8 +47,6 @@
 		                            </li>
                             	{{end}}
                             {{end}}						
-                            
-                            <!-- Modal in HUGO ??? -->
                             <li class="nav-item">
                                 <button class="btn btn-outline-dark rounded-0" data-toggle="modal" data-target="#contactModal">
                                     Contact

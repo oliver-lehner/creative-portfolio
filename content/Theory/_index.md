@@ -1,5 +1,5 @@
 ---
-title: "Sounds Revolting"
+title: "Theory"
 date: 2017-12-05T10:09:01+01:00
 draft: true
 ---

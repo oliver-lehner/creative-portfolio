@@ -1,24 +1,26 @@
 {{ define "main" }}
 <div class="container">
-    <div class="container bg-apricot">
-        <div class="col">
-            <div class="container">
-                <div class="row px-1 pt-1">
-                    <div class="col-7">
-                        <h3 class="text-yellow">Works related to "{{ .Title }}"</h3>
+    <div class="container">
+        <div class="row py-1">
+            <div class="col pt-2 pb-3 bg-sky">
+                <div class="container">
+                    <div class="row pt-1">
+                        <div class="col-7-lg">
+                            <h3 class="text-yellow">{{ .Title }}</h3>
+                        </div>
                     </div>
                 </div>
-            </div>
-            {{ $cols := 3}}
-            {{ range $key, $value := .Data.Pages}}
-                {{ if modBool $key $cols}}
-                    <div class="row px-1 pt-1">
-                {{end}}
-                {{.Render "summary"}}
-                {{ if modBool (add $key 1) $cols}}
-                    </div>
-                {{end}}
-            {{end}}  
+                {{ $cols := 3}}
+                {{ range $key, $value := .Data.Pages}}
+                    {{ if modBool $key $cols}}
+                        <div class="row px-1 pt-1">
+                    {{end}}
+                    {{.Render "summary"}}
+                    {{ if modBool (add $key 1) $cols}}
+                        </div>
+                    {{end}}
+                {{end}}  
+                </div>
             </div>
     </div>
 </div>

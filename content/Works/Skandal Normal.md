@@ -1,5 +1,5 @@
 ---
-title: "Skandal Normal Vermittlungsvideo"
+title: "Skandal Normal"
 date: 2017-12-06T15:40:39+01:00
 draft: true
 image: "./img/ok_skandale.png"
@@ -9,4 +9,5 @@ categories: ["Motion Design", "Graphic Design"]
 tags: ["2D Animation", "Illustration", "Late Capitalism", "OK Centrum", "After Effects", "Illustrator", "Art Mediation"]
 ---
 
+An Art Mediation video commisioned by the OK Center for Contemporary Art Linz for the exhibtion _Skandal Normal._
 {{< vimeo 246775174 >}}
