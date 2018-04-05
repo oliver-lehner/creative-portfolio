@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theory on Oliver Lehner</title>
+    <link>https://oliver-lehner.github.io/creative-portfolio/theory/</link>
+    <description>Recent content in Theory on Oliver Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2017 10:09:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

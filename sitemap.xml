@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/hoerstationen/</loc>
+    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/</loc>
+    <lastmod>2017-12-05T10:09:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/players-as-producers/</loc>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/works/post-post/</loc>
     <lastmod>2017-12-06T15:44:59+01:00</lastmod>
   </url>
@@ -13,22 +28,12 @@
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/hoerstationen/</loc>
-    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/works/skandal-normal/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/sounds-revolting/</loc>
-    <lastmod>2017-12-05T10:09:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/</loc>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/theory/</loc>
     <lastmod>2017-12-05T10:09:01+01:00</lastmod>
   </url>
   
@@ -102,7 +107,7 @@
   
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/categories/graphic-design/</loc>
-    <lastmod>2017-12-06T15:44:59+01:00</lastmod>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,6 +138,12 @@
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/interactive-art/</loc>
     <lastmod>2017-12-05T09:57:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/interface-cultures/</loc>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -180,7 +191,7 @@
   
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/print-design/</loc>
-    <lastmod>2017-12-06T15:44:59+01:00</lastmod>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
