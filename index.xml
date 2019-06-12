@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oliver Lehner - Creative Portfolio on Oliver Lehner</title>
+    <title>Oliver Lehner</title>
     <link>https://oliver-lehner.github.io/creative-portfolio/</link>
-    <description>Recent content in Oliver Lehner - Creative Portfolio on Oliver Lehner</description>
+    <description>Recent content on Oliver Lehner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Oliver Lehner</copyright>
-    <lastBuildDate>Tue, 05 Dec 2017 09:57:53 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 16:22:05 +0200</lastBuildDate>
     
 	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,31 +32,12 @@ Visit Ambisonic Fixations of Error.</description>
     </item>
     
     <item>
-      <title>Ambisonic Fixations of Error</title>
-      <link>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixationsdeutsch/</link>
-      <pubDate>Thu, 06 Jun 2019 15:40:39 +0100</pubDate>
-      
-      <guid>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixationsdeutsch/</guid>
-      <description>As part of my artistic research of documentation and conservation of sound installations based on consumer VR technology I found it important to investigate gallery soundscapes. With help from Sennheiser Austria and Ars Electronica Festival I recorded ambisonic audio at the festival site and prepared a Web VR Experience to make ephemeral sound art felt after its physical manifestation ceased to exist.
-Prolog Als Teil meiner künstlerischen Forschung zu Consumer Virtual Reality Technologie als Basis zur Archivierung und Dokumentation von räumlichen Klanginstallationen war es mir wichtig zu ergründen, wie sich eine museale Soundscape gestalten kann und wie sich eine Reproduktion derselben erfahren lässt.</description>
-    </item>
-    
-    <item>
       <title>Hörstationen</title>
       <link>https://oliver-lehner.github.io/creative-portfolio/works/hoerstationen/</link>
       <pubDate>Wed, 06 Dec 2017 15:40:39 +0100</pubDate>
       
       <guid>https://oliver-lehner.github.io/creative-portfolio/works/hoerstationen/</guid>
       <description>The OK Center for Contemporary Art commissioned 5 Hörstationen (Listening Posts) for their 2015 Exhibtion Das Geheimnis der Vögel. The idea was to deliver facts about birds in a playful way to the 100.000 exhibtion visitors. Wooden Boxes, evoking a bird house theme were placed in the exhibition area. A woodpecker sound, played back by a speaker inside the box, would alert passer-bys about the possibility to interact and invite them to inspect the sound source.</description>
-    </item>
-    
-    <item>
-      <title>I Am Sitting in A Virtual Room</title>
-      <link>https://oliver-lehner.github.io/creative-portfolio/works/virtualroom/</link>
-      <pubDate>Thu, 06 Jun 2019 15:40:39 +0100</pubDate>
-      
-      <guid>https://oliver-lehner.github.io/creative-portfolio/works/virtualroom/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -87,16 +68,6 @@ Prolog Als Teil meiner künstlerischen Forschung zu Consumer Virtual Reality Tec
       <guid>https://oliver-lehner.github.io/creative-portfolio/works/post-post/</guid>
       <description>Aw yiss, Neon Pantone Colors! I thought up a three-dimnensional post-post-horn and used its wireframe representation as an eye-catcher. We also recreated the graphic with neon-orange gaffa tape as a larger-than-life tape graffiti in the exhibtion space. I had fun designing this one and it shows!
 Folder Download</description>
-    </item>
-    
-    <item>
-      <title>Speculative Materialities</title>
-      <link>https://oliver-lehner.github.io/creative-portfolio/works/speculative-materialities/</link>
-      <pubDate>Wed, 06 Dec 2017 15:44:59 +0100</pubDate>
-      
-      <guid>https://oliver-lehner.github.io/creative-portfolio/works/speculative-materialities/</guid>
-      <description>I designed marketing material for the Interface Culture student exhibition at Ars Electronica 2016. I tackled the challenge to present the manyfold student artworks in a homogenous manner by using elements of a negative space pentagram as an over-arching brand design.
-Brochure Download</description>
     </item>
     
     <item>

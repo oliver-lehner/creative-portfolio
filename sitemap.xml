@@ -13,18 +13,8 @@
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixationsdeutsch/</loc>
-    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/works/hoerstationen/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/</loc>
-    <lastmod>2017-12-05T10:09:01+01:00</lastmod>
   </url>
   
   <url>
@@ -41,6 +31,12 @@
   
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/categories/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/</loc>
     <lastmod>2019-06-11T16:22:05+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -70,6 +66,12 @@
   </url>
   
   <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/ar.js/</loc>
     <lastmod>2019-06-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
@@ -79,11 +81,6 @@
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/field-recording/</loc>
     <lastmod>2019-06-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/virtualroom/</loc>
-    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
   </url>
   
   <url>
@@ -128,11 +125,6 @@
   
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/works/post-post/</loc>
-    <lastmod>2017-12-06T15:44:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/speculative-materialities/</loc>
     <lastmod>2017-12-06T15:44:59+01:00</lastmod>
   </url>
   
@@ -211,16 +203,6 @@
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/teensy/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/theory/</loc>
-    <lastmod>2017-12-05T10:09:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/</loc>
-    <lastmod>2017-12-05T09:57:53+01:00</lastmod>
   </url>
   
   <url>
