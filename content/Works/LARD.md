@@ -1,10 +1,10 @@
 ---
 title: "LARD"
 date: 2017-12-05T09:57:33+01:00
-draft: true
+draft: false
 image: "./img/LARD_finished.jpg"
 description: "Interactive Installation"
-year: 2015
+year: "2015"
 categories: ["Interaction Design", "Installation"]
 tags: ["Sonic Warfare", "LRAD", "Directional Sound", "Interactive Art", "Protest", "Ars Electronica", "Python", "Raspberry Pi", "OpenCV"]
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Shopping Mill"
 date: 2017-12-05T09:57:33+01:00
-draft: true
+draft: false
 image: "./img/Mill_installation.jpg"
 description: "A Multisensory Interactive Installation"
-year: 2016
+year: "2016"
 categories: ["Interaction Design", "Sound Design", "Installation"]
 tags: ["Art", "Sonic Warfare", "Muzak", "Interactive Art", "Late Capitalism", "Ars Electronica", "C++", "OpenFrameworks", "Raspberry Pi"]
 ---

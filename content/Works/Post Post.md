@@ -1,10 +1,10 @@
 +++
 title = "Post Post"
 date = 2017-12-06T15:44:59+01:00
-draft = true
+draft = false
 image = "./img/postpost.jpg"
 description = "A hybrid folder/poster design and lots of gaffa tape"
-year = 2015
+year = "2015"
 categories = ["Graphic Design"]
 tags = ["Print Design", "Ars Electronica"]
 +++

@@ -1,9 +1,11 @@
 {{ define "main" }}
 <div class="container">
     <div class="container">
+        {{if .Content}}
         <div class="row py-1">
             <div class="col pt-2 pb-3 bg-light">
                 <div class="container">
+
                     <div class="row">
                         <div class="col-3-lg"></div>
                         <div class="col-6-lg">
@@ -13,6 +15,7 @@
                     </div>  
             </div>
         </div>
+        {{end}}
         {{ $cols := 3}}
         {{ range $key, $value := (.Pages.ByParam "year").Reverse}}
             {{ if modBool $key $cols}}

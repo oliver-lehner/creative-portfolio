@@ -5,14 +5,13 @@
                 <img src="{{ . | absURL }}" alt="articleimg" class="card-img-top rounded-0" id="sumImg">
             </a>
         {{ end }}
-        <h4 class="card-title title-over-image">{{ .Title }}</h4>
+        <h4 class="card-title title-over-image">{{ .Title }} ({{ .Params.Year }})</h4>
     </div>
     
-    <div class="card-body">
-    <h5>{{ .Params.Year }}</h5>                           
+    <div class="card-body">                          
         <p class="card-text">
             {{ .Params.Description }}
         </p>
-        <a href="{{.Permalink}}" class="card-link">See more</a>
+        <a href="{{.Permalink}}" class="card-link">Details</a>
     </div>
 </div>

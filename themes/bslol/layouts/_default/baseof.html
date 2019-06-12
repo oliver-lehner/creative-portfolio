@@ -10,7 +10,11 @@
 		<link rel="stylesheet" href='{{ "css/font-awesome.min.css" | absURL }}'>
 		<link rel="stylesheet" href='{{ "css/bootstrap.css" | absURL }}'>
 		<link rel="stylesheet" href='{{ "css/style.css" | absURL }}'>
-		<title> {{ .Title }}</title>
+		<title> 
+		{{ block "title" . }}
+			{{ .Site.Title }}
+		{{ end }}
+		</title>
 		 {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 		 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 		 {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
@@ -23,7 +27,7 @@
                     <a href='{{ $.Site.BaseURL }}' class="navbar-brand">
                     <img src='{{ "./img/hand.png" | absURL }}' alt="Brand icon" class="brand-icon">
                     {{$.Site.Title}}
-                </a>
+                	</a>
                     <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -41,7 +45,7 @@
 									</li>
 								{{ else }}
 		                            <li class="nav-item">
-		                                <a class="nav-link" href="{{.URL}}">
+		                                <a class="nav-link" href="{{.Permalink}}">
 		                                    {{ .Title }}
 		                                </a>
 		                            </li>
@@ -66,7 +70,7 @@
 	                <div class="row">
 	                    <div class="col text-center">
 	                        <div class="py-4">
-	                            <h6>&copy; Oliver Lehner 2017</h6>
+	                            <h6>&#169; {{.Site.Copyright}} {{.Site.LastChange.Year}}</h6>
 	                        </div>
 	                        
 	                    </div>

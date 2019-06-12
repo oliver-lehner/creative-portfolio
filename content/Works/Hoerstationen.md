@@ -1,10 +1,10 @@
 ---
 title: "Hörstationen"
 date: 2017-12-06T15:40:39+01:00
-draft: true
+draft: false
 image: "./img/ok_hoer3.jpg"
 description: "Interactive Installation"
-year: 2015
+year: "2015"
 categories: ["Interaction Design", "Sound Design"]
 tags: ["OK Centrum", "Arduino", "Teensy", "Art Mediation"]
 weight: 100
