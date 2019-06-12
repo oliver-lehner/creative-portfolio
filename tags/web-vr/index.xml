@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web VR on Oliver Lehner</title>
+    <link>https://oliver-lehner.github.io/creative-portfolio/tags/web-vr/</link>
+    <description>Recent content in Web VR on Oliver Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oliver Lehner</copyright>
+    <lastBuildDate>Tue, 11 Jun 2019 16:22:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/tags/web-vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Through the Far-see-er VR</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/farseeer/</link>
+      <pubDate>Tue, 11 Jun 2019 16:22:05 +0200</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/farseeer/</guid>
+      <description>I contributed a small VR part to Sam Bunn&amp;rsquo;s spectacular utopian Performance/Installation &amp;ldquo;Through the Far-see-er&amp;rdquo;. It is available here but recent changes to motion sensor API could mean your mobile device will not be able to display it correctly. (At the time of this writing, it worked on Firefox v67.0 for Android).</description>
+    </item>
+    
+    <item>
+      <title>Ambisonic Fixations of Error</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixations/</link>
+      <pubDate>Thu, 06 Jun 2019 15:40:39 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixations/</guid>
+      <description>As part of my artistic research of documentation and conservation of sound installations based on consumer VR technology I found it important to investigate gallery soundscapes. With help from Sennheiser Austria and Ars Electronica Festival I recorded ambisonic audio at the festival site and prepared a Web VR Experience to make ephemeral sound art felt after its physical manifestation ceased to exist.
+Visit Ambisonic Fixations of Error.</description>
+    </item>
+    
+    <item>
+      <title>Ambisonic Fixations of Error</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixationsdeutsch/</link>
+      <pubDate>Thu, 06 Jun 2019 15:40:39 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixationsdeutsch/</guid>
+      <description>As part of my artistic research of documentation and conservation of sound installations based on consumer VR technology I found it important to investigate gallery soundscapes. With help from Sennheiser Austria and Ars Electronica Festival I recorded ambisonic audio at the festival site and prepared a Web VR Experience to make ephemeral sound art felt after its physical manifestation ceased to exist.
+Prolog Als Teil meiner künstlerischen Forschung zu Consumer Virtual Reality Technologie als Basis zur Archivierung und Dokumentation von räumlichen Klanginstallationen war es mir wichtig zu ergründen, wie sich eine museale Soundscape gestalten kann und wie sich eine Reproduktion derselben erfahren lässt.</description>
+    </item>
+    
+    <item>
+      <title>I Am Sitting in A Virtual Room</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/virtualroom/</link>
+      <pubDate>Thu, 06 Jun 2019 15:40:39 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/virtualroom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

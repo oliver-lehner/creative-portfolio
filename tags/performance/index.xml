@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance on Oliver Lehner</title>
+    <link>https://oliver-lehner.github.io/creative-portfolio/tags/performance/</link>
+    <description>Recent content in Performance on Oliver Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oliver Lehner</copyright>
+    <lastBuildDate>Tue, 11 Jun 2019 16:22:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Through the Far-see-er VR</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/farseeer/</link>
+      <pubDate>Tue, 11 Jun 2019 16:22:05 +0200</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/farseeer/</guid>
+      <description>I contributed a small VR part to Sam Bunn&amp;rsquo;s spectacular utopian Performance/Installation &amp;ldquo;Through the Far-see-er&amp;rdquo;. It is available here but recent changes to motion sensor API could mean your mobile device will not be able to display it correctly. (At the time of this writing, it worked on Firefox v67.0 for Android).</description>
+    </item>
+    
+  </channel>
+</rss>

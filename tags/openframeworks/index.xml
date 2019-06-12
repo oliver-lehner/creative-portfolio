@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Openframeworks on Oliver Lehner</title>
+    <title>OpenFrameworks on Oliver Lehner</title>
     <link>https://oliver-lehner.github.io/creative-portfolio/tags/openframeworks/</link>
-    <description>Recent content in Openframeworks on Oliver Lehner</description>
+    <description>Recent content in OpenFrameworks on Oliver Lehner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Oliver Lehner</copyright>
     <lastBuildDate>Tue, 05 Dec 2017 09:57:33 +0100</lastBuildDate>
     
 	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/tags/openframeworks/index.xml" rel="self" type="application/rss+xml" />

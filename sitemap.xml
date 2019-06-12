@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/farseeer/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixations/</loc>
+    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/ambisonicfixationsdeutsch/</loc>
+    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/works/hoerstationen/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
   </url>
@@ -13,8 +28,102 @@
   </url>
   
   <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/aframe/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/ars-electronica/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/performance/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/vr/ar/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/web-vr/</loc>
+    <lastmod>2019-06-11T16:22:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/ar.js/</loc>
+    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/field-recording/</loc>
+    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/virtualroom/</loc>
+    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/phd-research/</loc>
+    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/takethecake/</loc>
+    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/web-ar/</loc>
+    <lastmod>2019-06-06T15:40:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/graphic-design/</loc>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/interface-cultures/</loc>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/works/players-as-producers/</loc>
     <lastmod>2018-01-04T18:18:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/print-design/</loc>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -25,31 +134,6 @@
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/works/speculative-materialities/</loc>
     <lastmod>2017-12-06T15:44:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/skandal-normal/</loc>
-    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/theory/</loc>
-    <lastmod>2017-12-05T10:09:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/</loc>
-    <lastmod>2017-12-05T09:57:53+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/lard/</loc>
-    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/works/shopping-mill/</loc>
-    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
   </url>
   
   <url>
@@ -71,43 +155,8 @@
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/ars-electronica/</loc>
-    <lastmod>2017-12-06T15:44:59+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/art/</loc>
-    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/art-mediation/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/c&#43;&#43;/</loc>
-    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/directional-sound/</loc>
-    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/graphic-design/</loc>
-    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,26 +173,8 @@
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/installation/</loc>
-    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/categories/interaction-design/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/interactive-art/</loc>
-    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/interface-cultures/</loc>
-    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,26 +185,88 @@
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/lrad/</loc>
-    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/categories/motion-design/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/muzak/</loc>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/ok-centrum/</loc>
+    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/skandal-normal/</loc>
+    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/sound-design/</loc>
+    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/teensy/</loc>
+    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/theory/</loc>
+    <lastmod>2017-12-05T10:09:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/</loc>
+    <lastmod>2017-12-05T09:57:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/art/</loc>
     <lastmod>2017-12-05T09:57:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/ok-centrum/</loc>
-    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/c&#43;&#43;/</loc>
+    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/directional-sound/</loc>
+    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/installation/</loc>
+    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/interactive-art/</loc>
+    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/lard/</loc>
+    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/lrad/</loc>
+    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/muzak/</loc>
+    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,12 +279,6 @@
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/openframeworks/</loc>
     <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/print-design/</loc>
-    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,26 +301,13 @@
   </url>
   
   <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/shopping-mill/</loc>
+    <lastmod>2017-12-05T09:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/sonic-warfare/</loc>
     <lastmod>2017-12-05T09:57:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/sound-design/</loc>
-    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/</loc>
-    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/teensy/</loc>
-    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
