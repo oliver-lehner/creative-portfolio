@@ -6,7 +6,7 @@ image: "./img/ok_skandale.png"
 description: "2D Animation"
 year: "2017"
 categories: ["Motion Design", "Graphic Design"]
-tags: ["2D Animation", "Illustration", "Late Capitalism", "OK Centrum", "After Effects", "Illustrator", "Art Mediation"]
+tags: ["2D Animation", "Illustration", "OK Centrum", "After Effects", "Illustrator", "Art Mediation"]
 ---
 
 An Art Mediation video commisioned by the OK Center for Contemporary Art Linz for the exhibtion _Skandal Normal._

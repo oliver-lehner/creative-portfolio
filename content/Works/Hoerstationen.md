@@ -5,8 +5,8 @@ draft: false
 image: "./img/ok_hoer3.jpg"
 description: "Interactive Installation"
 year: "2015"
-categories: ["Interaction Design", "Sound Design"]
-tags: ["OK Centrum", "Arduino", "Teensy", "Art Mediation"]
+categories: ["Interaction Design"]
+tags: ["OK Centrum", "Arduino", "Teensy", "Art Mediation", "Sound Design"]
 weight: 100
 ---
 

@@ -5,8 +5,8 @@ draft: false
 image: "./img/Mill_installation.jpg"
 description: "A Multisensory Interactive Installation"
 year: "2016"
-categories: ["Interaction Design", "Sound Design", "Installation"]
-tags: ["Art", "Sonic Warfare", "Muzak", "Interactive Art", "Late Capitalism", "Ars Electronica", "C++", "OpenFrameworks", "Raspberry Pi"]
+categories: ["Interaction Design", "Installation"]
+tags: ["Art", "Sonic Warfare", "Muzak", "Interactive Art", "Sound Design", "Interface Cultures", "Ars Electronica", "C++", "OpenFrameworks", "Raspberry Pi"]
 ---
 
 Shopping Mill is an interactive, multi-sensory installation: a treadmill augmented with display and 

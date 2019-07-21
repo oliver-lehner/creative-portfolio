@@ -6,7 +6,7 @@ image: "./img/LARD_finished.jpg"
 description: "Interactive Installation"
 year: "2015"
 categories: ["Interaction Design", "Installation"]
-tags: ["Sonic Warfare", "LRAD", "Directional Sound", "Interactive Art", "Protest", "Ars Electronica", "Python", "Raspberry Pi", "OpenCV"]
+tags: ["Sonic Warfare", "LRAD", "Directional Sound", "Interactive Art", "Interface Cultures", Protest", "Ars Electronica", "Python", "Raspberry Pi", "OpenCV"]
 ---
 Military and police in numerous countries around the globe use Long Range Acoustic Devices (LRADs) 
 as weapons against agitated crowds. LRADs emit a focused sound beam with an intensity that is high 
