@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Oliver Lehner</title>
+    <link>https://oliver-lehner.github.io/creative-portfolio/categories/video/</link>
+    <description>Recent content in Video on Oliver Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oliver Lehner</copyright>
+    <lastBuildDate>Wed, 06 Dec 2017 15:40:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The First Law</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/works/the-first-law/</link>
+      <pubDate>Wed, 06 Dec 2017 15:40:39 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/works/the-first-law/</guid>
+      <description>A project about trust in machines. Realized at the Robotic Lab University of Art and Design Linz. Together with Jürgen Ropp and supported by Johannes Braumann.</description>
+    </item>
+    
+  </channel>
+</rss>

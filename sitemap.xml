@@ -101,6 +101,12 @@
   </url>
   
   <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/art-mediation/</loc>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/categories/graphic-design/</loc>
     <lastmod>2018-01-04T18:18:50+01:00</lastmod>
     <priority>0</priority>
@@ -110,6 +116,11 @@
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/interface-cultures/</loc>
     <lastmod>2018-01-04T18:18:50+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/aec-pictograms/</loc>
+    <lastmod>2018-01-04T18:18:50+01:00</lastmod>
   </url>
   
   <url>
@@ -147,12 +158,6 @@
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/art-mediation/</loc>
-    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/illustration/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
@@ -166,12 +171,6 @@
   
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/categories/interaction-design/</loc>
-    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/late-capitalism/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -194,13 +193,24 @@
   </url>
   
   <url>
-    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/sound-design/</loc>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/tags/sound-design/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://oliver-lehner.github.io/creative-portfolio/tags/teensy/</loc>
+    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/works/the-first-law/</loc>
+    <lastmod>2017-12-06T15:40:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliver-lehner.github.io/creative-portfolio/categories/video/</loc>
     <lastmod>2017-12-06T15:40:39+01:00</lastmod>
     <priority>0</priority>
   </url>
