@@ -2,3 +2,4 @@
 /node_modules
 */.DS_Store
 publish-to-gh-pages.sh
+.DS_Store
