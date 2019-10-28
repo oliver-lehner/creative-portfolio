@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Oliver Lehner</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 16:22:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2019 18:18:50 +0100</lastBuildDate>
     
 	<atom:link href="https://oliver-lehner.github.io/creative-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ars Electronica</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/tags/ars-electronica/</link>
+      <pubDate>Mon, 28 Oct 2019 18:18:50 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/tags/ars-electronica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art Mediation</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/tags/art-mediation/</link>
+      <pubDate>Mon, 28 Oct 2019 18:18:50 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/tags/art-mediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Print Design</title>
+      <link>https://oliver-lehner.github.io/creative-portfolio/tags/print-design/</link>
+      <pubDate>Mon, 28 Oct 2019 18:18:50 +0100</pubDate>
+      
+      <guid>https://oliver-lehner.github.io/creative-portfolio/tags/print-design/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aframe</title>
@@ -18,15 +45,6 @@
       <pubDate>Tue, 11 Jun 2019 16:22:05 +0200</pubDate>
       
       <guid>https://oliver-lehner.github.io/creative-portfolio/tags/aframe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ars Electronica</title>
-      <link>https://oliver-lehner.github.io/creative-portfolio/tags/ars-electronica/</link>
-      <pubDate>Tue, 11 Jun 2019 16:22:05 +0200</pubDate>
-      
-      <guid>https://oliver-lehner.github.io/creative-portfolio/tags/ars-electronica/</guid>
       <description></description>
     </item>
     
@@ -85,29 +103,11 @@
     </item>
     
     <item>
-      <title>Art Mediation</title>
-      <link>https://oliver-lehner.github.io/creative-portfolio/tags/art-mediation/</link>
-      <pubDate>Thu, 04 Jan 2018 18:18:50 +0100</pubDate>
-      
-      <guid>https://oliver-lehner.github.io/creative-portfolio/tags/art-mediation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Interface Cultures</title>
       <link>https://oliver-lehner.github.io/creative-portfolio/tags/interface-cultures/</link>
       <pubDate>Thu, 04 Jan 2018 18:18:50 +0100</pubDate>
       
       <guid>https://oliver-lehner.github.io/creative-portfolio/tags/interface-cultures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Print Design</title>
-      <link>https://oliver-lehner.github.io/creative-portfolio/tags/print-design/</link>
-      <pubDate>Thu, 04 Jan 2018 18:18:50 +0100</pubDate>
-      
-      <guid>https://oliver-lehner.github.io/creative-portfolio/tags/print-design/</guid>
       <description></description>
     </item>
     
