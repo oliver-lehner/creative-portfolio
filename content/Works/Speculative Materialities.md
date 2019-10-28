@@ -1,7 +1,7 @@
 +++
 title = "Speculative Materialities"
 date = 2017-12-06T15:44:59+01:00
-draft = true
+draft = false
 image = "./img/specmat.jpg"
 description = "Brochures, posters and space design elements for a student exhibtion"
 year= "2016"
